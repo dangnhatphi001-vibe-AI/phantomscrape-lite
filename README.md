@@ -61,7 +61,7 @@ Unlock the full power of web scraping with our Pro versions. Stop worrying about
 > [!WARNING]
 > **Getting 403 or 503 errors on Cloudflare-protected sites?**
 > PhantomScrape Lite only does TLS spoofing. To solve complex JS challenges automatically, you need a headless browser solution.
-> 👉 **[Get PhantomScrape Pro V1 (Starter) - The Cloudflare Bypass Master](https://phiguest35.gumroad.com/l/PhantomScrapeProStarterCode)**
+> 👉 **[Get PhantomScrape Pro V1 (Starter) - The Cloudflare Bypass Master](https://phiquest35.gumroad.com/l/PhantomScrapeProStarterCode)**
 
 > [!IMPORTANT]
 > **Need the Ultimate All-in-One Solution? ($89)**
@@ -71,7 +71,7 @@ Unlock the full power of web scraping with our Pro versions. Stop worrying about
 > - 🌍 **Auto Free Proxy Rotator**
 > - 🧠 **AI-Ready Markdown Parser** (Perfectly extracts content while protecting layout for LLMs)
 > 
-> 👉 **[Get PhantomScrape Pro V2 Now](https://phiguest35.gumroad.com/l/PhantomScrapeProV2Pro)**
+> 👉 **[Get PhantomScrape Pro V2 Now](https://phiquest35.gumroad.com/l/PhantomScrapeProV2Pro)**
 
 ---
 
